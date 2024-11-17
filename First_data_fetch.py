@@ -4,7 +4,7 @@ import pandas as pd
 import time
 
 # Replace with your own Google API key
-API_KEY = 'AIzaSyDRt3kmHK46zrnTCPqRNORpEIM0_pixBaw'
+API_KEY = ''
 
 def get_nearby_places(api_key, location, radius, place_type, next_page_token=None):
     # Define the endpoint URL
