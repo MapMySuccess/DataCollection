@@ -5,7 +5,7 @@ import json
 import math
 
 # Your Google API Key
-GOOGLE_MAPS_API_KEY = 'AIzaSyDYfzrpjY2RB7h9Bq8Q3sQ-bKjNDTFFKdE'
+GOOGLE_MAPS_API_KEY = 'YOUR API'
 
 # Load data from data.json
 with open('data.json', 'r') as json_file:
